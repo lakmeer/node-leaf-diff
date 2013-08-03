@@ -1,0 +1,12 @@
+{
+  "name": "leaf-diff",
+  "description": "Create a list where the leaf values of two trees differ",
+  "version": "0.1.0",
+  "author": "lakmeer (lakmeer.com)",
+  "dependencies": {},
+  "devDependencies": {
+    "LiveScript" : ">=1.1"
+  },
+  "repository": { "type": "git", "url": "http://github.com/lakmeer/node-leaf-diff.git" },
+  "main": "index.js"
+}
